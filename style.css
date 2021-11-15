@@ -43,6 +43,7 @@ body {
     background-size: contain;
     background-position: center; 
     height: 65%;
+    border: solid black;
 }
 
 .text {
